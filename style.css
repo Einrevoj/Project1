@@ -1,0 +1,13 @@
+.column-left {
+    height: 400px;
+    width: 400px;
+    border-radius: 6px;
+}
+
+.card-body svg {
+    color: crimson;
+    margin-left: 40%;
+}
+.contact svg {
+    color: crimson;
+}
