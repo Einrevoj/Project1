@@ -1,13 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Ubuntu:wght@400;500;700&display=swap');
+
+/* home styling */
+.home {
+    padding-top: 80px;
+    background: url("background1.jpg") no-repeat center;
+    font-family: 'Ubuntu', sans-serif;
+    margin-top: 50px;
+}
+
+.home img {
+    height: 450px;
+}
+
+.text-1 {
+    font-size: 27px;
+}
+.text-2 {
+    font-size: 75px;
+	font-weight: 600;
+	margin-left: -3px;
+}
+.text-3{
+	font-size: 40px;
+	margin: 5px 0;
+}
+
+/* About styling */
+
 .column-left {
     height: 400px;
     width: 400px;
     border-radius: 6px;
 }
 
-.card-body svg {
+/* Services styling */
+.card-body i {
     color: crimson;
     margin-left: 40%;
+    font-size: 50px;
 }
-.contact svg {
+
+/* Contact styling */
+.contact i {
     color: crimson;
+    font-size: 40px;
+}
+
+/* footer section styling */
+footer{
+	background: #111;
+	padding: 20px 23px;
+	color: #fff;
+}
+footer span a{
+	color: crimson;
+	text-decoration: none;
+}
+footer span a:hover{
+	text-decoration: underline;
 }
