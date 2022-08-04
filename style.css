@@ -6,7 +6,7 @@ html{
 /* home styling */
 .home {
     padding-top: 80px;
-    background: url("background1.jpg") no-repeat center;
+    background: url("background1.jpg") top/cover;
     font-family: 'Ubuntu', sans-serif;
     margin-top: 50px;
 }
