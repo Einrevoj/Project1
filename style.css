@@ -31,8 +31,6 @@ html{
 /* About styling */
 
 .column-left {
-    height: 400px;
-    width: 400px;
     border-radius: 6px;
 }
 
@@ -73,3 +71,4 @@ footer span a{
 footer span a:hover{
 	text-decoration: underline;
 }
+
