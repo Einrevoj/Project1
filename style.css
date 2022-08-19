@@ -54,10 +54,6 @@ html{
 
 /* About styling */
 
-.column-left {
-    border-radius: 6px;
-}
-
 .title h2::before{
     position: absolute;
     content: "";
